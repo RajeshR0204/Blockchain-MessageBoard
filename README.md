@@ -435,6 +435,11 @@ Please install MetaMask!
 ---
 
 ### DEVELOPER INSTRUCTIONS SUMMARY FOR RUNNING AND TESTING
+
+Launch with specific model:
+```bash
+ollama launch claude --model qwen2.5
+
 ```bash
 npx truffle compile
 npx truffle test
