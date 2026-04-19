@@ -14,7 +14,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Structure
 ```
-message-board/
+Blockchain-MessageBoard/
 ├── contracts/
 │   └── MessageBoard.sol        # Solidity contract
 ├── migrations/

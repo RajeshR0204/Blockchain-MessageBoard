@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 import MessageBoardABI from "./MessageBoard.json";
 import "./App.css";
 
-const CONTRACT_ADDRESS = "0x2F3658b5b5e49daCCD120F423bF0a106805fd0cd";
+const CONTRACT_ADDRESS = "0x0192D40BAf399419790Cc37feAB4E456005948c8";
 
 function App() {
     const [provider, setProvider] = useState(null);

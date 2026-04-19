@@ -440,13 +440,15 @@ Launch with specific model:
 ```bash
 ollama launch claude --model qwen3.5:cloud
 
+`bash 
+ganache-cli -p 7545
+
 ```bash
 npx truffle compile
 npx truffle test
 npx truffle migrate --network development
 
-`bash 
-ganache-cli -P 7545
+
 
 -TAKE NOTE OF AVAILABLE ACCOUNTS AND PRIVATE KEYS. ONE OF THE AVAILABLE ACCOUNTS WILL BE USED AS CONTRACT ADDRESS AND ANOTHER AS SOURCE WALLET
 IN METAMASK->CLICK ADD CUSTOM NETWORK->ADD HTTP://127.0.0.1:7545->CHAINID: 1337->CURRENCY:ETH
