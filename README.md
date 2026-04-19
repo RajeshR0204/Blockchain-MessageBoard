@@ -438,7 +438,7 @@ Please install MetaMask!
 
 Launch with specific model:
 ```bash
-ollama launch claude --model qwen2.5
+ollama launch claude --model qwen3.5:cloud
 
 ```bash
 npx truffle compile
